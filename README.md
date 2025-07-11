@@ -37,8 +37,8 @@ Abrir index.html:
 Basta abrir o arquivo index.html em seu navegador da web. Geralmente, você pode fazer isso clicando duas vezes no arquivo.
 
 📸 Capturas de Tela
-[Imagem do projeto Tabuada com o formulário visível]
-[Imagem do projeto Tabuada com uma tabuada gerada]
+[![image.png](https://i.postimg.cc/W1xCypYQ/image.png)](https://postimg.cc/NK7d9tc4)
+[![image.png](https://i.postimg.cc/bJmRK3Ns/image.png)](https://postimg.cc/S2z89L9h)
 
 🤝 Contribuindo
 Este é um projeto de aprendizado pessoal, mas sugestões de melhorias ou correções de bugs são sempre bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
